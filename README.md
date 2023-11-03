@@ -1,11 +1,12 @@
-# PDF Question & Answering
+# Documate: A must have AGI tool for every organization who documents their organizational knowledge base.
 
-This folder is showing how to:
+The tool offers the following features
 
-- Ask a user for a PDF file
-- Chunk that file and create embeddings
-- Store those embeddings on Pinecone
-- Answer questions from users as well as showing the sources used to answer.
+- Have your own organizations Cognitive mind which can reason and present facts 
+    - Upload any pdf file to add to your organization knowledge graph / base
+    - Annotate relationships collaboratively to make sure knowledge graph is well curated with evidence
+    - Explore and reason your knowledge graph /base to unearth hidden relationships and impacts
+    - Simulate situations to obtain insights from your documate assistant.
 
 To run the example, follow the instructions of the [main readme](/README.md).
 
